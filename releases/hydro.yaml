@@ -1,0 +1,10 @@
+gazebo_msgs:
+  ubuntu: [ros-hydro-gazebo-msgs-current]
+gazebo_plugins:
+  ubuntu: [ros-hydro-gazebo-plugins-current]
+gazebo_ros:
+  ubuntu: [ros-hydro-gazebo-ros-current]
+gazebo_ros_control:
+  ubuntu: [ros-hydro-gazebo-ros-control-current]
+gazebo_ros_pkgs:
+  ubuntu: [ros-hydro-gazebo-ros-pkgs-current]
