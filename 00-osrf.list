@@ -1,0 +1,3 @@
+yaml https://github.com/osrf/osrf-rosdep/raw/master/osrf.yaml
+yaml https://github.com/osrf/osrf-rosdep/raw/master/releases/hydro.yaml hydro
+yaml https://github.com/osrf/osrf-rosdep/raw/master/releases/groovy.yaml groovy
