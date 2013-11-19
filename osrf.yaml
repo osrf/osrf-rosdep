@@ -4,3 +4,13 @@ gazebo:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [gazebo-current]
+gazebo_msgs:
+  ubuntu: [gazebo-msgs-current]
+gazebo_plugins:
+  ubuntu: [gazebo-plugins-current]
+gazebo_ros:
+  ubuntu: [gazebo-ros-current]
+gazebo_ros_control:
+  ubuntu: [gazebo-ros-control-current]
+gazebo_ros_pkgs:
+  ubuntu: [gazebo-ros-pkgs-current]
