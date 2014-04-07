@@ -1,0 +1,10 @@
+gazebo_msgs:
+  ubuntu: [ros-hydro-gazebo3-msgs]
+gazebo_plugins:
+  ubuntu: [ros-hydro-gazebo3-plugins]
+gazebo_ros:
+  ubuntu: [ros-hydro-gazebo3-ros]
+gazebo_ros_control:
+  ubuntu: [ros-hydro-gazebo3-ros-control]
+gazebo_ros_pkgs:
+  ubuntu: [ros-hydro-gazebo3-ros-pkgs]
