@@ -3,4 +3,4 @@ gazebo:
   gentoo:
     portage:
       packages: [sci-electronics/gazebo]
-  ubuntu: [libgazebo-dev]
+  ubuntu: [libgazebo-dev-prerelease]
