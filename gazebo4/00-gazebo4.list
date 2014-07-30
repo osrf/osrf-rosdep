@@ -1,0 +1,3 @@
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo4/gazebo.yaml
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo4/releases/hydro.yaml hydro
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo4/releases/indigo.yaml indigo
