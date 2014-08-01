@@ -1,10 +1,10 @@
 gazebo_msgs:
-  ubuntu: [ros-hydro-gazebo4-prerelease-msgs]
+  ubuntu: [ros-indigo-gazebo4-prerelease-msgs]
 gazebo_plugins:
-  ubuntu: [ros-hydro-gazebo4-prerelease-plugins]
+  ubuntu: [ros-indigo-gazebo4-prerelease-plugins]
 gazebo_ros:
-  ubuntu: [ros-hydro-gazebo4-prerelease-ros]
+  ubuntu: [ros-indigo-gazebo4-prerelease-ros]
 gazebo_ros_control:
-  ubuntu: [ros-hydro-gazebo4-prerelease-ros-control]
+  ubuntu: [ros-indigo-gazebo4-prerelease-ros-control]
 gazebo_ros_pkgs:
-  ubuntu: [ros-hydro-gazebo4-prerelease-ros-pkgs]
+  ubuntu: [ros-indigo-gazebo4-prerelease-ros-pkgs]
