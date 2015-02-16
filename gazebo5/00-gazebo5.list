@@ -1,0 +1,2 @@
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo5/gazebo.yaml
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo5/releases/indigo.yaml indigo

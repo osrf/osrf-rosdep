@@ -1,0 +1,10 @@
+gazebo_msgs:
+  ubuntu: [ros-indigo-gazebo5-msgs]
+gazebo_plugins:
+  ubuntu: [ros-indigo-gazebo5-plugins]
+gazebo_ros:
+  ubuntu: [ros-indigo-gazebo5-ros]
+gazebo_ros_control:
+  ubuntu: [ros-indigo-gazebo5-ros-control]
+gazebo_ros_pkgs:
+  ubuntu: [ros-indigo-gazebo5-ros-pkgs]

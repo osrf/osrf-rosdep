@@ -1,0 +1,6 @@
+gazebo:
+  arch: [gazebo-hg]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo5-dev]
