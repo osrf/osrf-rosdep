@@ -1,5 +1,6 @@
 gazebo:
   arch: [gazebo-hg]
+  fedora: [gazebo]
   gentoo:
     portage:
       packages: [sci-electronics/gazebo]
@@ -7,6 +8,7 @@ gazebo:
 
 gazebo5:
   arch: [gazebo-hg]
+  fedora: [gazebo]
   gentoo:
     portage:
       packages: [sci-electronics/gazebo]
@@ -14,6 +16,7 @@ gazebo5:
 
 libgazebo5-dev:
   arch: [gazebo-hg]
+  fedora: [gazebo-devel]
   gentoo:
     portage:
       packages: [sci-electronics/gazebo]
