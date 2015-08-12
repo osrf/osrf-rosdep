@@ -4,3 +4,17 @@ gazebo:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [libgazebo6-dev]
+
+gazebo5:
+  arch: [gazebo-hg]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo6-dev]
+
+libgazebo5:
+  arch: [gazebo-hg]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo6-dev]
