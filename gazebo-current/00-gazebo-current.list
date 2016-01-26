@@ -1,3 +1,0 @@
-yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo-current/gazebo.yaml
-yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo-current/releases/hydro.yaml hydro
-yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo-current/releases/groovy.yaml groovy
