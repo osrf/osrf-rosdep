@@ -5,6 +5,7 @@ gazebo:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
 
 gazebo5:
   arch: [gazebo-hg]
@@ -13,6 +14,7 @@ gazebo5:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
 
 gazebo7:
   arch: [gazebo-hg]
@@ -21,6 +23,7 @@ gazebo7:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
 
 libgazebo5-dev:
   arch: [gazebo-hg]
@@ -29,6 +32,7 @@ libgazebo5-dev:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
 
 libgazebo7-dev:
   arch: [gazebo-hg]
@@ -37,3 +41,4 @@ libgazebo7-dev:
     portage:
       packages: [sci-electronics/gazebo]
   ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
