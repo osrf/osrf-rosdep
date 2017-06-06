@@ -25,6 +25,15 @@ gazebo7:
   ubuntu: [libgazebo8-dev]
   debian: [libgazebo8-dev]
 
+gazebo8:
+  arch: [gazebo-hg]
+  fedora: [gazebo]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
+
 libgazebo5-dev:
   arch: [gazebo-hg]
   fedora: [gazebo-devel]
@@ -35,6 +44,15 @@ libgazebo5-dev:
   debian: [libgazebo8-dev]
 
 libgazebo7-dev:
+  arch: [gazebo-hg]
+  fedora: [gazebo-devel]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo8-dev]
+  debian: [libgazebo8-dev]
+
+libgazebo8-dev:
   arch: [gazebo-hg]
   fedora: [gazebo-devel]
   gentoo:

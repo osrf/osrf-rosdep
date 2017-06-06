@@ -1,0 +1,12 @@
+gazebo_msgs:
+  ubuntu: [ros-lunar-gazebo8-msgs]
+  debian: [ros-lunar-gazebo8-msgs]
+gazebo_plugins:
+  ubuntu: [ros-lunar-gazebo8-plugins]
+  debian: [ros-lunar-gazebo8-plugins]
+gazebo_ros:
+  ubuntu: [ros-lunar-gazebo8-ros]
+  debian: [ros-lunar-gazebo8-ros]
+gazebo_ros_pkgs:
+  ubuntu: [ros-lunar-gazebo8-ros-pkgs]
+  debian: [ros-lunar-gazebo8-ros-pkgs]
