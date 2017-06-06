@@ -10,3 +10,6 @@ gazebo_ros:
 gazebo_ros_pkgs:
   ubuntu: [ros-kinetic-gazebo8-ros-pkgs]
   debian: [ros-kinetic-gazebo8-ros-pkgs]
+gazebo_dev:
+  ubuntu: [ros-kinetic-gazebo8-dev]
+  debian: [ros-kinetic-gazebo8-dev]
