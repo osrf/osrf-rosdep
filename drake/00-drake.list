@@ -1,0 +1,2 @@
+yaml https://github.com/osrf/osrf-rosdep/raw/master/drake/drake.yaml
+yaml https://github.com/osrf/osrf-rosdep/raw/master/drake/releases/kinetic.yaml kinetic
