@@ -1,0 +1,8 @@
+gazebo_msgs:
+  ubuntu: [ros-jade-gazebo9-msgs]
+gazebo_plugins:
+  ubuntu: [ros-jade-gazebo9-plugins]
+gazebo_ros:
+  ubuntu: [ros-jade-gazebo9-ros]
+gazebo_ros_pkgs:
+  ubuntu: [ros-jade-gazebo9-ros-pkgs]
