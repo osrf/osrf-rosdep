@@ -7,6 +7,9 @@ gazebo_plugins:
 gazebo_ros:
   ubuntu: [ros-lunar-gazebo9-ros]
   debian: [ros-lunar-gazebo9-ros]
+gazebo_ros_control:
+  ubuntu: [ros-lunar-gazebo9-ros-control]
+  debian: [ros-lunar-gazebo9-ros-control]
 gazebo_ros_pkgs:
   ubuntu: [ros-lunar-gazebo9-ros-pkgs]
   debian: [ros-lunar-gazebo9-ros-pkgs]
