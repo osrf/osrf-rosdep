@@ -7,6 +7,9 @@ gazebo_plugins:
 gazebo_ros:
   ubuntu: [ros-kinetic-gazebo9-ros]
   debian: [ros-kinetic-gazebo9-ros]
+gazebo_ros_control:
+  ubuntu: [ros-kinetic-gazebo9-ros-control]
+  debian: [ros-kinetic-gazebo9-ros-control]
 gazebo_ros_pkgs:
   ubuntu: [ros-kinetic-gazebo9-ros-pkgs]
   debian: [ros-kinetic-gazebo9-ros-pkgs]
