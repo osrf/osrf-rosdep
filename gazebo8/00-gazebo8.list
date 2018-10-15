@@ -2,4 +2,4 @@ yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo8/gazebo.yaml
 yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo8/releases/indigo.yaml indigo
 yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo8/releases/jade.yaml jade
 yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo8/releases/kinetic.yaml kinetic
-yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo8/releases/kinetic.yaml lunar
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gazebo8/releases/lunar.yaml lunar
