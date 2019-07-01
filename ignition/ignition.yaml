@@ -1,0 +1,13 @@
+---
+ignition-gazebo2:
+  ubuntu: [libignition-gazebo2-dev]
+  debian: [libignition-gazebo2-dev]
+ignition-msgs4:
+  ubuntu: [libignition-msgs4-dev]
+  debian: [libignition-msgs4-dev]
+ignition-sensors2:
+  ubuntu: [libignition-sensors2-dev]
+  debian: [libignition-sensors2-dev]
+ignition-transport7:
+  ubuntu: [libignition-transport7-dev]
+  debian: [libignition-transport7-dev]
