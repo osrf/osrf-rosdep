@@ -5,6 +5,9 @@ ignition-gazebo2:
 ignition-msgs4:
   ubuntu: [libignition-msgs4-dev]
   debian: [libignition-msgs4-dev]
+ignition-rendering2:
+  ubuntu: [libignition-rendering2-dev]
+  debian: [libignition-rendering2-dev]
 ignition-sensors2:
   ubuntu: [libignition-sensors2-dev]
   debian: [libignition-sensors2-dev]
