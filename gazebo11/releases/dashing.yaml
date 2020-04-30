@@ -1,0 +1,18 @@
+gazebo_msgs:
+  ubuntu: [ros-dashing-gazebo11-msgs]
+  debian: [ros-dashing-gazebo11-msgs]
+gazebo_plugins:
+  ubuntu: [ros-dashing-gazebo11-plugins]
+  debian: [ros-dashing-gazebo11-plugins]
+gazebo_ros:
+  ubuntu: [ros-dashing-gazebo11-ros]
+  debian: [ros-dashing-gazebo11-ros]
+gazebo_ros_control:
+  ubuntu: [ros-dashing-gazebo11-ros-control]
+  debian: [ros-dashing-gazebo11-ros-control]
+gazebo_ros_pkgs:
+  ubuntu: [ros-dashing-gazebo11-ros-pkgs]
+  debian: [ros-dashing-gazebo11-ros-pkgs]
+gazebo_dev:
+  ubuntu: [ros-dashing-gazebo11-dev]
+  debian: [ros-dashing-gazebo11-dev]

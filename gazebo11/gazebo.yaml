@@ -1,0 +1,26 @@
+gazebo:
+  arch: [gazebo-hg]
+  fedora: [gazebo]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo11-dev]
+  debian: [libgazebo11-dev]
+
+libgazebo9-dev:
+  arch: [gazebo-hg]
+  fedora: [gazebo-devel]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo11-dev]
+  debian: [libgazebo11-dev]
+
+libgazebo11-dev:
+  arch: [gazebo-hg]
+  fedora: [gazebo-devel]
+  gentoo:
+    portage:
+      packages: [sci-electronics/gazebo]
+  ubuntu: [libgazebo11-dev]
+  debian: [libgazebo11-dev]
