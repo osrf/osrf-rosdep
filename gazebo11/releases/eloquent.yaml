@@ -1,0 +1,18 @@
+gazebo_msgs:
+  ubuntu: [ros-eloquent-gazebo11-msgs]
+  debian: [ros-eloquent-gazebo11-msgs]
+gazebo_plugins:
+  ubuntu: [ros-eloquent-gazebo11-plugins]
+  debian: [ros-eloquent-gazebo11-plugins]
+gazebo_ros:
+  ubuntu: [ros-eloquent-gazebo11-ros]
+  debian: [ros-eloquent-gazebo11-ros]
+gazebo_ros_control:
+  ubuntu: [ros-eloquent-gazebo11-ros-control]
+  debian: [ros-eloquent-gazebo11-ros-control]
+gazebo_ros_pkgs:
+  ubuntu: [ros-eloquent-gazebo11-ros-pkgs]
+  debian: [ros-eloquent-gazebo11-ros-pkgs]
+gazebo_dev:
+  ubuntu: [ros-eloquent-gazebo11-dev]
+  debian: [ros-eloquent-gazebo11-dev]
