@@ -2,9 +2,15 @@
 ignition-gazebo2:
   ubuntu: [libignition-gazebo2-dev]
   debian: [libignition-gazebo2-dev]
+ignition-gazebo3:
+  ubuntu: [libignition-gazebo3-dev]
+  debian: [libignition-gazebo3-dev]
 ignition-msgs4:
   ubuntu: [libignition-msgs4-dev]
   debian: [libignition-msgs4-dev]
+ignition-msgs5:
+  ubuntu: [libignition-msgs5-dev]
+  debian: [libignition-msgs5-dev]
 ignition-rendering2:
   ubuntu: [libignition-rendering2-dev]
   debian: [libignition-rendering2-dev]
@@ -14,3 +20,6 @@ ignition-sensors2:
 ignition-transport7:
   ubuntu: [libignition-transport7-dev]
   debian: [libignition-transport7-dev]
+ignition-transport8:
+  ubuntu: [libignition-transport8-dev]
+  debian: [libignition-transport8-dev]
