@@ -1,0 +1,41 @@
+---
+gz-cmake3:
+  ubuntu: [libgz-cmake3-dev]
+gz-common5:
+  ubuntu: [libgz-common5-dev]
+gz-fuel-tools8:
+  ubuntu: [libgz-fuel-tools8-dev]
+gz-sim7:
+  ubuntu: [libgz-sim7-dev]
+python3-gz-sim7:
+  ubuntu: [python3-gz-sim7]
+gz-gui7:
+  ubuntu: [libgz-gui7-dev]
+gz-launch6:
+  ubuntu: [libgz-launch6-dev]
+gz-math7:
+  ubuntu: [libgz-math7-dev]
+python3-gz-math7:
+  ubuntu: [python3-gz-math7]
+gz-msgs9:
+  ubuntu: [libgz-msgs9-dev]
+gz-physics6:
+  ubuntu: [libgz-physics6-dev]
+gz-plugin2:
+  ubuntu: [libgz-plugin2-dev]
+gz-rendering7:
+  ubuntu: [libgz-rendering7-dev]
+gz-sensors7:
+  ubuntu: [libgz-sensors7-dev]
+gz-tools2:
+  ubuntu: [libgz-tools2-dev]
+gz-transport12:
+  ubuntu: [libgz-transport12-dev]
+gz-utils2:
+  ubuntu: [libgz-utils2-dev]
+gz-utils2-cli:
+  ubuntu: [libgz-utils2-cli-dev]
+sdformat13:
+  ubuntu: [libsdformat13-dev]
+python3-sdformat13:
+  ubuntu: [python3-sdformat13]
