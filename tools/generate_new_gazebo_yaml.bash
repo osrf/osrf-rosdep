@@ -7,6 +7,13 @@ PYTHON_LIBS="sdformat sim math"
 # at the time of Fortress
 CLI_LIBSS="utils"
 
+
+# 0. Intro
+echo "---"
+echo "# Gazebo ${GZ_DISTRO} entries"
+echo "gz-$GZ_DISTRO:"
+echo "  ubuntu: [gz-${GZ_DISTRO}]"
+
 for version in $VERSIONS; do
   # Handle sdformat
   [[ ${version} != ${version/sdf/} ]] && version="${version/sdf/sdformat}"

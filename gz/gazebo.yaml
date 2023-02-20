@@ -1,4 +1,7 @@
 ---
+# Gazebo garden entries
+gz-garden:
+  ubuntu: [gz-garden]
 gz-cmake3:
   ubuntu: [libgz-cmake3-dev]
 gz-common5:
