@@ -21,7 +21,7 @@ Gazebo distributions are usually added to rosdistro (see [Gazebo Citadel/Fortres
 ### Installing rosdep rules to resolve Gazebo Garden libraries
 
 ```bash
-sudo bash -c 'echo "yaml https://raw.githubusercontent.com/osrf/osrf-rosdep/master/gz/00-gazebo.list" > /etc/ros/rosdep/sources.list.d/'
+sudo bash -c 'echo "yaml https://raw.githubusercontent.com/osrf/osrf-rosdep/master/gazebo/00-gazebo.list" > /etc/ros/rosdep/sources.list.d/00-gazebo.list'
 rosdep update
 # check that resolve works
 rosdep resolve gz-transport12
