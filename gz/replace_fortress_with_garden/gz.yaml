@@ -1,0 +1,44 @@
+---
+# Gazebo garden entries
+gz-garden:
+  ubuntu: [gz-garden]
+gz-cmake2:
+  ubuntu: [libgz-cmake3-dev]
+gz-common4:
+  ubuntu: [libgz-common5-dev]
+gz-fuel-tools7:
+  ubuntu: [libgz-fuel-tools8-dev]
+gz-sim6:
+  ubuntu: [libgz-sim7-dev]
+python3-gz-sim6:
+  ubuntu: [python3-gz-sim7]
+gz-gui6:
+  ubuntu: [libgz-gui7-dev]
+gz-launch5:
+  ubuntu: [libgz-launch6-dev]
+gz-math6:
+  ubuntu: [libgz-math7-dev]
+python3-gz-math6:
+  ubuntu: [python3-gz-math7]
+gz-msgs8:
+  ubuntu: [libgz-msgs9-dev]
+gz-physics5:
+  ubuntu: [libgz-physics6-dev]
+gz-plugin:
+  ubuntu: [libgz-plugin2-dev]
+gz-rendering6:
+  ubuntu: [libgz-rendering7-dev]
+gz-sensors6:
+  ubuntu: [libgz-sensors7-dev]
+gz-tools:
+  ubuntu: [libgz-tools2-dev]
+gz-transport11:
+  ubuntu: [libgz-transport12-dev]
+gz-utils:
+  ubuntu: [libgz-utils2-dev]
+gz-utils-cli:
+  ubuntu: [libgz-utils2-cli-dev]
+sdformat12:
+  ubuntu: [libsdformat13-dev]
+python3-sdformat12:
+  ubuntu: [python3-sdformat13]
