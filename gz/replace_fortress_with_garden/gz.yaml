@@ -1,6 +1,6 @@
 ---
 # Gazebo garden entries
-gz-garden:
+gz-fortress:
   ubuntu: [gz-garden]
 gz-cmake2:
   ubuntu: [libgz-cmake3-dev]
