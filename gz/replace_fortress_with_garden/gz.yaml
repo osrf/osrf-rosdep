@@ -42,3 +42,40 @@ sdformat12:
   ubuntu: [libsdformat13-dev]
 python3-sdformat12:
   ubuntu: [python3-sdformat13]
+# Ignition entries
+ignition-cmake2:
+  ubuntu: [libgz-cmake3-dev]
+ignition-common4:
+  ubuntu: [libgz-common5-dev]
+ignition-fuel-tools7:
+  ubuntu: [libgz-fuel-tools8-dev]
+ignition-sim6:
+  ubuntu: [libgz-sim7-dev]
+python3-ignition-sim6:
+  ubuntu: [python3-gz-sim7]
+ignition-gui6:
+  ubuntu: [libgz-gui7-dev]
+ignition-launch5:
+  ubuntu: [libgz-launch6-dev]
+ignition-math6:
+  ubuntu: [libgz-math7-dev]
+python3-ignition-math6:
+  ubuntu: [python3-gz-math7]
+ignition-msgs8:
+  ubuntu: [libgz-msgs9-dev]
+ignition-physics5:
+  ubuntu: [libgz-physics6-dev]
+ignition-plugin:
+  ubuntu: [libgz-plugin2-dev]
+ignition-rendering6:
+  ubuntu: [libgz-rendering7-dev]
+ignition-sensors6:
+  ubuntu: [libgz-sensors7-dev]
+ignition-tools:
+  ubuntu: [libgz-tools2-dev]
+ignition-transport11:
+  ubuntu: [libgz-transport12-dev]
+ignition-utils:
+  ubuntu: [libgz-utils2-dev]
+ignition-utils-cli:
+  ubuntu: [libgz-utils2-cli-dev]
