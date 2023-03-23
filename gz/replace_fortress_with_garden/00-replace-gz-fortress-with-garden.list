@@ -1,1 +1,2 @@
 yaml https://github.com/osrf/osrf-rosdep/raw/jrivero/rename_humble/gz/replace_fortress_with_garden/gz.yaml
+yaml https://github.com/osrf/osrf-rosdep/raw/jrivero/rename_humble/gz/replace_fortress_with_garden/releases/humble.yaml humble
