@@ -10,10 +10,11 @@ Most of ROS users probably don't need this repository at all or only the point 1
 ## What is a non default configuration
 
 Non default configurations are those that use a different Gazebo (former Ignition) than the one defined in the [REP 2000](https://www.ros.org/reps/rep-2000.html).
+
 Default configuration: users of Gazebo versions defined in REP 2000 don't need to use this repository (i.e: users of Gazebo Fortress on ROS 2 Humble). 
 Default Users of the "non default configuraton" of running Gazebo Garden on ROS 2 Humble will need to use this repository.
 
-[Documentation on choosing the Gazebo and ROS combination](Most of ROS users probably don't need this repository at all or only the point 1. above. Reading what is a non default configuration is important to understand when this repository is needed) provides the whole context on this topic.
+[Documentation on choosing the Gazebo and ROS combination](https://gazebosim.org/docs/latest/ros_installation) provides the whole context on this topic.
 
 ## 1. Use rosdep to resolve Gazebo libraries
 
