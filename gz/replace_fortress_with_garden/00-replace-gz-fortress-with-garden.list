@@ -1,2 +1,3 @@
 yaml https://github.com/osrf/osrf-rosdep/raw/master/gz/replace_fortress_with_garden/gz.yaml
 yaml https://github.com/osrf/osrf-rosdep/raw/master/gz/replace_fortress_with_garden/releases/humble.yaml humble
+yaml https://github.com/osrf/osrf-rosdep/raw/master/gz/replace_fortress_with_garden/releases/iron.yaml iron

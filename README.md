@@ -34,9 +34,9 @@ rosdep resolve gz-garden
 This repository has been used to help with redefinition of Gazebo rosdep keys when alternative binary packages were built to support "non default configurations". The alternative binary packages use a different name than the ones hosted in ROS repository so if they are in use inside a given ROS distributions, the user probably probably want the rosdep keys resolve to the new names.
 
 An example of this using Gazebo and ros_gz:
- * A ROS 2 Humble user requires Gazebo Garden instead of the officially support Gazebo Fortress
- * The ROS repository has `ros-humbe-ros-gz*` for Gazebo Fortress packages
- * Alternatives packages for Gazebo Garden were built and hosted in `packages.osrfoundation.org` named `ros-humble-ros-gzgarden-*`
+ * A ROS 2 Humble/Iron user requires Gazebo Garden instead of the officially support Gazebo Fortress
+ * The ROS repository has `ros-humbe-ros-gz*` or `ros-iron-ros-gz*` for Gazebo Fortress packages
+ * Alternatives packages for Gazebo Garden were built and hosted in `packages.osrfoundation.org` named `ros-humble-ros-gzgarden-*` or `ros-iron-ros-gzgarden-*`
  * Support for renaming was implemented in #12
 
 Another old example of this for Gazebo Classic:
