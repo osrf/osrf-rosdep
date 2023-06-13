@@ -1,0 +1,12 @@
+ros_gz:
+ ubuntu: [ros-iron-ros-gzgarden]
+ros_gz_bridge:
+ ubuntu: [ros-iron-ros-gzgarden-bridge]
+ros_gz_image:
+ ubuntu: [ros-iron-ros-gzgarden-image]
+ros_gz_interfaces:
+ ubuntu: [ros-iron-ros-gzgarden-interfaces]
+ros_gz_sim:
+ ubuntu: [ros-iron-ros-gzgarden-sim]
+ros_gz_sim_demos:
+ ubuntu: [ros-iron-ros-gzgarden-sim-demos]
