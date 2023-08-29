@@ -1,0 +1,12 @@
+ros_gz:
+ ubuntu: [ros-humble-ros-gzharmonic]
+ros_gz_bridge:
+ ubuntu: [ros-humble-ros-gzharmonic-bridge]
+ros_gz_image:
+ ubuntu: [ros-humble-ros-gzharmonic-image]
+ros_gz_interfaces:
+ ubuntu: [ros-humble-ros-gzharmonic-interfaces]
+ros_gz_sim:
+ ubuntu: [ros-humble-ros-gzharmonic-sim]
+ros_gz_sim_demos:
+ ubuntu: [ros-humble-ros-gzharmonic-sim-demos]
