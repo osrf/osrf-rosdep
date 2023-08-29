@@ -1,5 +1,5 @@
 ---
-# Gazebo garden entries
+# Gazebo Garden entries
 gz-garden:
   ubuntu: [gz-garden]
 gz-cmake3:
@@ -42,3 +42,33 @@ sdformat13:
   ubuntu: [libsdformat13-dev]
 python3-sdformat13:
   ubuntu: [python3-sdformat13]
+# Gazebo Harmonic entries
+# No bumps from Garden for: gz-cmake3, gz-math6, gz-plugin2, gz-tools2
+gz-harmonic:
+  ubuntu: [gz-harmonic]
+gz-fuel-tools9:
+  ubuntu: [libgz-fuel-tools9-dev]
+gz-sim8:
+  ubuntu: [libgz-sim8-dev]
+python3-gz-sim8:
+  ubuntu: [python3-gz-sim8]
+gz-gui8:
+  ubuntu: [libgz-gui8-dev]
+gz-launch7:
+  ubuntu: [libgz-launch7-dev]
+gz-msgs10:
+  ubuntu: [libgz-msgs10-dev]
+gz-physics7:
+  ubuntu: [libgz-physics7-dev]
+gz-rendering8:
+  ubuntu: [libgz-rendering8-dev]
+gz-sensors8:
+  ubuntu: [libgz-sensors8-dev]
+gz-transport13:
+  ubuntu: [libgz-transport13-dev]
+gz-transport13-cli:
+  ubnuntu: [gz-transport13-cli]
+sdformat14:
+  ubuntu: [libsdformat14-dev]
+python3-sdformat14:
+  ubuntu: [python3-sdformat14]
