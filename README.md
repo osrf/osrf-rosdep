@@ -34,18 +34,20 @@ rosdep resolve gz-harmonic
 
 ## 2. Redefine rosdep keys affecting Gazebo packages to point to alternative binaries
 
-This repository has been used to help with redefinition of Gazebo rosdep keys when alternative binary packages were built to support "non default configurations". The alternative binary packages use a different name than the ones hosted in ROS repository so if they are in use inside a given ROS distributions, the user probably probably want the rosdep keys resolve to the new names.
+This repository has been used to help with redefinition of Gazebo rosdep keys when alternative binary packages were built to support "non default configurations".
+The alternative binary packages use a different name than the ones hosted in ROS repository so if they are in use inside a given ROS distributions, the user probably probably want the rosdep keys resolve to the new names.
 
-An example of this using Gazebo and ros_gz:
+Example of this using Gazebo Garden and ros_gz:
  * A ROS 2 Humble/Iron user requires Gazebo Garden instead of the officially support Gazebo Fortress
  * The ROS repository has `ros-humbe-ros-gz*` or `ros-iron-ros-gz*` for Gazebo Fortress packages
  * Alternatives packages for Gazebo Garden were built and hosted in `packages.osrfoundation.org` named `ros-humble-ros-gzgarden-*` or `ros-iron-ros-gzgarden-*`
- * Support for renaming was implemented in #12
+ * Support and instructions for renaming are in #12
 
-Another old example of this for Gazebo Classic:
- * A ROS 2 Dashing user requires Gazebo11 instead of the officially supported Gazebo9
- * The ROS repository has `ros-dashing-gazebo-ros-*` for Gazebo9 packages
- * Alternatives packages for Gazebo11 were built and hosted in `packages.osrfoundation.org` named `ros-dashing-gazebo11-ros-*`
- * Support for renaming was added to this repository in https://github.com/osrf/osrf-rosdep/commit/7f456cc26039e8679951218893d2ec74a679c139
+**Note:** wait until the official release of Harmonic
+Example of this using Gazebo Harmonic and ros_gz:
+ * A ROS 2 Humble/Iron user requires Gazebo Harmonic instead of the officially support Gazebo Fortress
+ * The ROS repository has `ros-humbe-ros-gz*` or `ros-iron-ros-gz*` for Gazebo Fortress packages
+ * Alternatives packages for Gazebo Harmonic were built and hosted in `packages.osrfoundation.org` named `ros-humble-ros-gzgarden-*` or `ros-iron-ros-gzgarden-*`
+ * Support and instructions for renaming are in #16
 
 The decission of building unofficial Gazebo binaries is made by the Gazebo simulation team. There are currently no alternative packages of any Gazebo distribution supported at this time.
