@@ -11,22 +11,25 @@ Most of ROS users probably don't need this repository at all or only the point 1
 
 Non default configurations are those that use a different Gazebo (former Ignition) than the one defined in the [REP 2000](https://www.ros.org/reps/rep-2000.html).
 
-Default configuration: users of Gazebo versions defined in REP 2000 don't need to use this repository (i.e: users of Gazebo Fortress on ROS 2 Humble). 
+Default configuration: users of Gazebo versions defined in REP 2000 don't need to use this repository (i.e: users of Gazebo Fortress on ROS 2 Humble).
 Default Users of the "non default configuraton" of running Gazebo Garden on ROS 2 Humble will need to use this repository.
 
 [Documentation on choosing the Gazebo and ROS combination](https://gazebosim.org/docs/latest/ros_installation) provides the whole context on this topic.
 
 ## 1. Use rosdep to resolve Gazebo libraries
 
-Gazebo distributions are usually added to rosdistro (see [Gazebo Citadel/Fortress PR](https://github.com/ros/rosdistro/pull/34177)) so this repository is not required. The only missing Gazebo distributions available in this repository is `Gazebo Garden`.
+Gazebo distributions are usually added to rosdistro (see [Gazebo Citadel/Fortress PR](https://github.com/ros/rosdistro/pull/34177)) so this repository is not required.
+The only missing Gazebo distributions available in this repository are `Gazebo Garden` and `Gazebo Harmonic`
 
-### Installing rosdep rules to resolve Gazebo Garden libraries
+### Installing rosdep rules to resolve Gazebo Garden/Harmonic libraries
 
 ```bash
 sudo bash -c 'wget https://raw.githubusercontent.com/osrf/osrf-rosdep/master/gz/00-gazebo.list -O /etc/ros/rosdep/sources.list.d/00-gazebo.list'
 rosdep update
 # check that resolve works
 rosdep resolve gz-garden
+# alternatively
+rosdep resolve gz-harmonic
 ```
 
 ## 2. Redefine rosdep keys affecting Gazebo packages to point to alternative binaries
