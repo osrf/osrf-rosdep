@@ -1,0 +1,81 @@
+---
+# Gazebo Harmonic entries
+gz-fortress:
+  ubuntu: [gz-harmonic]
+gz-cmake2:
+  ubuntu: [libgz-cmake3-dev]
+gz-common4:
+  ubuntu: [libgz-common5-dev]
+gz-fuel-tools7:
+  ubuntu: [libgz-fuel-tools9-dev]
+gz-sim6:
+  ubuntu: [libgz-sim8-dev]
+python3-gz-sim6:
+  ubuntu: [python3-gz-sim8]
+gz-gui6:
+  ubuntu: [libgz-gui8-dev]
+gz-launch5:
+  ubuntu: [libgz-launch6-dev]
+gz-math6:
+  ubuntu: [libgz-math7-dev]
+python3-gz-math6:
+  ubuntu: [python3-gz-math7]
+gz-msgs8:
+  ubuntu: [libgz-msgs10-dev]
+gz-physics5:
+  ubuntu: [libgz-physics7-dev]
+gz-plugin:
+  ubuntu: [libgz-plugin2-dev]
+gz-rendering6:
+  ubuntu: [libgz-rendering8-dev]
+gz-sensors6:
+  ubuntu: [libgz-sensors8-dev]
+gz-tools:
+  ubuntu: [libgz-tools2-dev]
+gz-transport11:
+  ubuntu: [libgz-transport13-dev]
+gz-utils:
+  ubuntu: [libgz-utils2-dev]
+gz-utils-cli:
+  ubuntu: [libgz-utils2-cli-dev]
+sdformat12:
+  ubuntu: [libsdformat14-dev]
+python3-sdformat12:
+  ubuntu: [python3-sdformat14]
+# Ignition entries
+ignition-cmake2:
+  ubuntu: [libgz-cmake3-dev]
+ignition-common4:
+  ubuntu: [libgz-common5-dev]
+ignition-fuel-tools7:
+  ubuntu: [libgz-fuel-tools9-dev]
+ignition-gazebo6:
+  ubuntu: [libgz-sim8-dev]
+python3-ignition-gazebo6:
+  ubuntu: [python3-gz-sim8]
+ignition-gui6:
+  ubuntu: [libgz-gui8-dev]
+ignition-launch5:
+  ubuntu: [libgz-launch6-dev]
+ignition-math6:
+  ubuntu: [libgz-math7-dev]
+python3-ignition-math6:
+  ubuntu: [python3-gz-math7]
+ignition-msgs8:
+  ubuntu: [libgz-msgs10-dev]
+ignition-physics5:
+  ubuntu: [libgz-physics7-dev]
+ignition-plugin:
+  ubuntu: [libgz-plugin2-dev]
+ignition-rendering6:
+  ubuntu: [libgz-rendering8-dev]
+ignition-sensors6:
+  ubuntu: [libgz-sensors8-dev]
+ignition-tools:
+  ubuntu: [libgz-tools2-dev]
+ignition-transport11:
+  ubuntu: [libgz-transport13-dev]
+ignition-utils:
+  ubuntu: [libgz-utils2-dev]
+ignition-utils-cli:
+  ubuntu: [libgz-utils2-cli-dev]
