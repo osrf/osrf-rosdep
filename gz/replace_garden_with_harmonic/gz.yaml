@@ -1,0 +1,45 @@
+---
+# Gazebo Harmonic entries
+gz-garden:
+  ubuntu: [gz-harmonic]
+gz-fuel-tools8:
+  ubuntu: [libgz-fuel-tools9-dev]
+gz-sim7:
+  ubuntu: [libgz-sim8-dev]
+python3-gz-sim7:
+  ubuntu: [python3-gz-sim8]
+gz-gui7:
+  ubuntu: [libgz-gui8-dev]
+gz-msgs9:
+  ubuntu: [libgz-msgs10-dev]
+gz-physics6:
+  ubuntu: [libgz-physics7-dev]
+gz-rendering7:
+  ubuntu: [libgz-rendering8-dev]
+gz-sensors7:
+  ubuntu: [libgz-sensors8-dev]
+gz-transport12:
+  ubuntu: [libgz-transport13-dev]
+sdformat13:
+  ubuntu: [libsdformat14-dev]
+python3-sdformat13:
+  ubuntu: [python3-sdformat14]
+# Ignition entries
+ignition-fuel-tools8:
+  ubuntu: [libgz-fuel-tools9-dev]
+ignition-gazebo7:
+  ubuntu: [libgz-sim8-dev]
+python3-ignition-gazebo7:
+  ubuntu: [python3-gz-sim8]
+ignition-gui7:
+  ubuntu: [libgz-gui8-dev]
+ignition-msgs9:
+  ubuntu: [libgz-msgs10-dev]
+ignition-physics6:
+  ubuntu: [libgz-physics7-dev]
+ignition-rendering7:
+  ubuntu: [libgz-rendering8-dev]
+ignition-sensors7:
+  ubuntu: [libgz-sensors8-dev]
+ignition-transport12:
+  ubuntu: [libgz-transport13-dev]
