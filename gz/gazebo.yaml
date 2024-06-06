@@ -1,4 +1,9 @@
 ---
+# Common dependencies
+DART:
+  ubuntu: [libdart-dev]
+libogre-next-2.3-dev: # only from packages.osrfoundation.org
+  ubuntu: [libogre-next-2.3-dev]
 # Gazebo Garden entries
 gz-garden:
   ubuntu: [gz-garden]
