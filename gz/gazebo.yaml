@@ -4,6 +4,10 @@ DART:
   ubuntu: [libdart-dev]
 libogre-next-2.3-dev: # only from packages.osrfoundation.org
   ubuntu: [libogre-next-2.3-dev]
+libzenohc-dev: # only from packages.osrfoundation.org
+  ubuntu: [libzenohc-dev]
+libzenohcpp-dev: # only from packages.osrfoundation.org
+  ubuntu: [libzenohcpp-dev]
 # Gazebo Garden entries
 gz-garden:
   ubuntu: [gz-garden]
