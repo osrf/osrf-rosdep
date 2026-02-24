@@ -1,8 +1,6 @@
 ---
 # Common dependencies
 DART:  # only from packages.osrfoundation.org
-  ubuntu: [libdart6.13-dev]
-DART-6.16:  # only from packages.osrfoundation.org
   ubuntu: [libdart6.16-dev]
 libogre-next-2.3-dev: # only from packages.osrfoundation.org
   ubuntu: [libogre-next-2.3-dev]
